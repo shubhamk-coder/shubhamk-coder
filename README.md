@@ -1,5 +1,5 @@
-# 💫 About Me:
-Software Developer | Full Stack Developer | JavaScript ❤️ | ReactJS | Redux | GraphQL | <br>NodeJS | ExpressJS | MongoDB | SQL | Firebase | Python | Bootstrap | TailwindCSS | ServiceNow<br>🌱 I’m currently learning AWS, Docker<br>💬 Ask me about Full Stack Web Development 😊<br>
+# Hello Developers👋
+I'm a Software Developer with an experience working in following technologies: Full Stack Developer | JavaScript ❤️ | ReactJS | Redux | GraphQL | <br>NodeJS | ExpressJS | MongoDB | SQL | Firebase | Python | Bootstrap | TailwindCSS | ServiceNow<br>🌱 I’m currently learning AWS, Docker<br>💬 Ask me about Full Stack Web Development 😊<br>
 
 
 ## 🌐 Socials:
