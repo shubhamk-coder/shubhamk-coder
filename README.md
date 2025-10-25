@@ -1,6 +1,6 @@
 # Hello Developers👋
 I'm a Senior Software Engineer with an experience working in following technologies:<br>
-Full Stack Developer | JavaScript ❤️ | ReactJS | Redux | GraphQL | NodeJS | ExpressJS | MongoDB | SQL | Firebase | Python | Bootstrap | TailwindCSS | ServiceNow<br>🌱 I’m currently learning AWS, Docker<br>💬 Ask me about Full Stack Web Development 😊<br>
+Full Stack Developer | JavaScript ❤️ | ReactJS | Angular | Redux | GraphQL | NodeJS | ExpressJS | NestJS | MongoDB | SQL | Firebase | Python | Bootstrap | TailwindCSS | ServiceNow<br>🌱 I’m currently learning AWS, Docker<br>💬 Ask me about Full Stack Web Development 😊<br>
 
 
 ## 🌐 Socials:
